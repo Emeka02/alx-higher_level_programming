@@ -1,5 +1,3 @@
-ecutable File  16 lines (15 sloc)  364 Bytes
-
 #!/usr/bin/python3
 SinglyLinkedList = __import__('100-singly_linked_list').SinglyLinkedList
 
