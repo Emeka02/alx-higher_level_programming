@@ -27,7 +27,3 @@ if __name__ == "__main__":
 
     s1.update(size=7, id=89, y=1)
     print(s1)
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
