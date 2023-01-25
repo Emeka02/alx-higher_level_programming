@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Displays the X-Request-Id header variable of a request to a given URL.
+"""Script that takes in a URL, sends request to the URL.
 Usage: ./1-hbtn_header.py <URL>
 """
 import sys
